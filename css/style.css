@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    margin: auto;
+    max-width: 960px;
+    font-family: monospace;    
+}
+
+form {
+    line-height: 1.65rem;
+}
+
+#btnElt {
+    float: right;
+}
