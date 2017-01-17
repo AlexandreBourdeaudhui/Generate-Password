@@ -2,7 +2,7 @@
 
  Generate Password can generate a random password with many options.
  
- ## By default we generate : 
+## By default we can generate : 
  - 6 characteres -LowerCase-,
  - and we can go up to 20 characters.  
    
